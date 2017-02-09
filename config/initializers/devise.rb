@@ -1,0 +1,1 @@
+Devise.secret_key = "dc1cd0985575a6fad0ec26be4dbc4927fb178ef611865721ff4bf39eed0619ef18b12ecdb144ac226193c584f9bdab8d899d"
